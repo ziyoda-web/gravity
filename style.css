@@ -1,0 +1,20 @@
+h2{
+    font-size: 50px;
+    font-weight: 400;
+}
+p{
+    font-size: 20px;
+}
+.button{
+    display: flex;
+    padding: 20px 24px;
+    align-items: center;
+    border-radius: 8px;
+    border: 2px solid #000;
+    background: var(--A, #71A89E);
+    color: var(--White, #FFF);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 133.333% */
+}
